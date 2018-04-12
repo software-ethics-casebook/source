@@ -1,0 +1,38 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The Software Ethics Casebook
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://software-ethics-casebook.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+source-url: "https://github.com/software-ethics-casebook/source"
+twitter_username: jekyllrb
+github_username: software-ethics-casebook
+permalink: :title # The permalink for all posts is their page.title hyphen-cased.
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+strict_front_matter: true # Cause a build to fail if there is a YAML syntax error in a page's front matter.
+error_mode: strict # Cause a build to fail if there is a Liquid syntax error.
+
+
+# Exclude from processing
+exclude:
+  - casebook.sublime-project
+  - casebook.sublime-workspace
+

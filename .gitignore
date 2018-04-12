@@ -1,0 +1,10 @@
+# temporary jekyll files
+_site
+.sass-cache
+.jekyll-metadata
+
+# redundant macOS system files
+.DS_Store
+
+# redundant Sublime Text files
+*.sublime-workspace
