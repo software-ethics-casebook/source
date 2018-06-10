@@ -35,4 +35,6 @@ error_mode: strict # Cause a build to fail if there is a Liquid syntax error.
 exclude:
   - casebook.sublime-project
   - casebook.sublime-workspace
-
+  - Gemfile
+  - Gemfile.lock
+  - cibuild.sh
