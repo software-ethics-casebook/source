@@ -7,14 +7,14 @@ Our purpose is to show the different ways in which ethical issues in software de
 
 This will give software engineers the opportunity to examine ethical issues they may be confronted with in the present or in the future: our intention is to help present and future members of our profession develop their own ethical positions, rather than promulgate allegiance to a specific code of ethics.
 
-Our profession encounters novel ethical challenges on a regular basis, and there is therefore a need for a living document that registers these challenges and their surrounding discussions. An open-source, version-controlled website naturally serves this purpose better than a paper book. What's more, it can be easily iterated on via contributions from the community (i.e. pull requests), and can benefit from a dynamic and completely transparent revision process. We therefore welcome your edits via pull requests to [this site's source]({{ site.source-url }}).
+Our profession encounters novel ethical challenges on a regular basis, and there is therefore a need for a living document that registers these challenges and their surrounding discussions. An open-source, version-controlled website naturally serves this purpose better than a paper book. What's more, it can be easily iterated on via contributions from the community (i.e. pull requests), and can benefit from a dynamic and completely transparent revision process. We welcome your edits via pull requests to [this site's source]({{site.source-url}}).
 
 ## Usage
 
-```bash
-gem install jekyll #if you don't have jekyll installed
+This site is written and built using [Jekyll](https://jekyllrb.com/), a powerful, well-known, and easy-to-use static site generator. Follow [these instructions](https://jekyllrb.com/docs/installation/) to install Jekyll if it is not already installed on your machine. Run the following commands to build and preview the Casebook:
 
-git clone https://github.com/software-ethics/casebook.git
+```
+git clone {{ site.source-url }}.git
 cd casebook
 bundle exec jekyll serve
 
@@ -38,7 +38,7 @@ Readers must be able to check that facts reported here about real-world cases ca
 
 
 ## Contributing
-We welcome contributions via pull requests to [this site's source]({{ site.source-url }}).
+We welcome contributions via pull requests to [this site's source]({{site.source-url}}).
 
 
 ## Content Licensing
