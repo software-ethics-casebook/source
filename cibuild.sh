@@ -14,7 +14,5 @@ bundle exec jekyll build \
 # ensure all links, images, and scripts behave as they should:
 htmlproofer ./_site \
 	--assume_extension \
-	--check_html
-
-## TODO:
-#	--check_favicon
+	--check_html \
+	--check_favicon
