@@ -20,6 +20,12 @@ twitter_username: jekyllrb
 github_username: software-ethics-casebook
 permalink: :title # The permalink for all posts is their page.title hyphen-cased.
 
+header_pages:
+  - README.md
+  - tag/case.html
+  - tag/position.html
+  - case-study/index.md
+
 
 # Build settings
 markdown: kramdown
