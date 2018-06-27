@@ -3,6 +3,8 @@ layout: page
 title: README
 ---
 
+[![Build Status](https://travis-ci.org/software-ethics-casebook/source.svg?branch=master)](https://travis-ci.org/software-ethics-casebook/source)
+
 Our purpose is to show the different ways in which ethical issues in software development have manifested themselves, been thought of, and dealt with.
 
 This will give software engineers the opportunity to examine ethical issues they may be confronted with in the present or in the future: our intention is to help present and future members of our profession develop their own ethical positions, rather than promulgate allegiance to a specific code of ethics.
