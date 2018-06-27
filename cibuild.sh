@@ -15,4 +15,5 @@ bundle exec jekyll build \
 htmlproofer ./_site \
 	--assume_extension \
 	--check_html \
+	--only_4xx \
 	--check_favicon
