@@ -38,7 +38,7 @@ In June 2018, Google CEO Sundar Pichai publishes a blog post clarifying Google's
 * [Open Letter to Sundar Pichai](assets/googlers-letter-against-maven.pdf). Retrieved April 12, 2018.
 * ["Google Employees Resign in Protest Against Pentagon Contract"](https://gizmodo.com/google-employees-resign-in-protest-against-pentagon-con-1825729300). _Gizmodo_. May 14, 2018. Retrieved June 7, 2018.
 * ["Open Letter in Support of Google Employees and Tech Workers"](https://www.icrac.net/open-letter-in-support-of-google-employees-and-tech-workers/). Retrieved June 7, 2018.
-* ["AI at Google: our principles"](https://blog.google/topics/ai/ai-principles/amp/). June 7, 2018. Retrieved June 9, 2018.
+* ["AI at Google: our principles"](https://blog.google/technology/ai/ai-principles/). June 7, 2018. Retrieved June 9, 2018.
 
 ## Further reading
 
